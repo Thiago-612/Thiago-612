@@ -1,27 +1,85 @@
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:573666,100:2E00F3&text=Hi%20There&reversal=false&fontColor=c0c0c0&fontAlign=20&descAlign=50&textBg=false&descAlignY=60&fontAlignY=20" alt="venom modificado" min-width="600px" max-width="600px" width="600px"
-align="left">
+# Thiago Patrício
 
+### Data Scientist | Civil Engineer | Mathematics Graduate
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+I am a Civil Engineer, Mathematics graduate, and Data Science professional focused on applying statistical analysis and machine learning to real-world problems.
 
+My background combines quantitative reasoning, engineering, education, and technology. I develop end-to-end data projects involving data collection, preprocessing, exploratory analysis, feature engineering, predictive modeling, model evaluation, and communication of results.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c0c0c0&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Thiago+Patrício;I'm+34+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome)](https://git.io/typing-svg)
+## Featured Project
 
+### Brasília Real Estate Analytics
 
- ### Main skills: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+An end-to-end Data Science project developed to identify real estate investment opportunities in Brasília and surrounding regions.
 
-### Feel free to reach out if you have any questions: ⤵️
+The project includes:
 
-<p align="left">
-  <a href="mailto:thiago.lino.patricio@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/thiago-patrício-389a1a9b" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://wa.me/5561995524761?text=Olá%2C%20vim%20pelo%20GitHub!" title="WhatsApp">
-    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-</p>
+* Collection and validation of public real estate listings
+* Data standardization and deduplication
+* Exploratory market analysis
+* Rental price prediction
+* Financial feasibility simulations
+* Investment opportunity indicators
+* Interactive rental prediction tool
 
+**Repository:** [Brasília Real Estate Analytics](https://github.com/Thiago-612/projeto-imobiliario-brasilia)
+
+## Data Science Portfolio
+
+My portfolio includes projects involving:
+
+* Classification
+* Regression
+* Customer segmentation
+* Statistical hypothesis testing
+* Dimensionality reduction
+* Cross-validation and hyperparameter optimization
+* Ensemble learning
+* Model interpretation and performance evaluation
+
+**Course projects:** [EBAC Data Science Projects](https://github.com/Thiago-612/ebac-data-science)
+
+## Technical Skills
+
+**Programming and data**
+
+* Python
+* SQL
+* Pandas
+* NumPy
+
+**Machine learning and statistics**
+
+* Scikit-learn
+* XGBoost
+* Statsmodels
+* SciPy
+* Classification
+* Regression
+* Clustering
+* Feature engineering
+* Cross-validation
+
+**Visualization**
+
+* Matplotlib
+* Plotly
+
+**Data collection and development**
+
+* Playwright
+* Beautiful Soup
+* Git
+* GitHub
+
+## Professional Background
+
+* Civil Engineering
+* Mathematics Education
+* Data Science
+* Teaching and technical communication
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/thiago-patr%C3%ADcio-389a1a9b/)
