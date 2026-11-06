@@ -38,7 +38,7 @@ My portfolio includes projects involving:
 * Ensemble learning
 * Model interpretation and performance evaluation
 
-**Course projects:** [EBAC Data Science Projects](https://github.com/Thiago-612/ebac-data-science)
+**Course projects:** [EBAC Data Science Projects](https://github.com/Thiago-612/ebac-data-science-course)
 
 ## Technical Skills
 
